@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/000-p2p-parent/000-p2p-parent.iml" filepath="$PROJECT_DIR$/000-p2p-parent/000-p2p-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-p2p-exterface/001-p2p-exterface.iml" filepath="$PROJECT_DIR$/001-p2p-exterface/001-p2p-exterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-p2p-dataService/002-p2p-dataService.iml" filepath="$PROJECT_DIR$/002-p2p-dataService/002-p2p-dataService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-p2p-common/003-p2p-common.iml" filepath="$PROJECT_DIR$/003-p2p-common/003-p2p-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-p2p-web/004-p2p-web.iml" filepath="$PROJECT_DIR$/004-p2p-web/004-p2p-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-p2p-task/005-p2p-task.iml" filepath="$PROJECT_DIR$/005-p2p-task/005-p2p-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-p2p-pay/006-p2p-pay.iml" filepath="$PROJECT_DIR$/006-p2p-pay/006-p2p-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010-p2p-timer/010-p2p-timer.iml" filepath="$PROJECT_DIR$/010-p2p-timer/010-p2p-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/011-p2p-alipay/011-p2p-alipay.iml" filepath="$PROJECT_DIR$/011-p2p-alipay/011-p2p-alipay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012-QRCode/012-QRCode.iml" filepath="$PROJECT_DIR$/012-QRCode/012-QRCode.iml" />
+    </modules>
+  </component>
+</project>

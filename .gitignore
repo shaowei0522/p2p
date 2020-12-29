@@ -1,0 +1,5 @@
+# Project exclude paths
+/001-p2p-exterface/target/
+/003-p2p-common/target/
+/011-p2p-alipay/target/
+/012-QRCode/target/
